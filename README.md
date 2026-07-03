@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Adithyaballa/Adithyaballa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Balla Adhitya
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML) Graduate from Parul University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate Java Full Stack Developer with an interest in building scalable web applications using modern technologies.
+
+## 🚀 Tech Stack
+
+**Languages:** Java, JavaScript, SQL, HTML, CSS
+
+**Frontend:** React.js, Bootstrap
+
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, Maven, Postman, Swagger, VS Code, IntelliJ IDEA
+
+## 📌 Projects
+
+- 💰 Expense Tracker Application
+- 👨‍💼 Employee Management System
+- ✅ Todo Management System
+
+## 🌱 Currently Learning
+
+- Spring Security
+- Microservices
+- Docker
+- AWS
+
+## 📫 Connect with Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
