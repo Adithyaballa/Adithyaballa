@@ -33,5 +33,5 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your-adithyaballa03@gmail.com
+- 📧 Email: adithyaballa03@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/adithya-balla/
